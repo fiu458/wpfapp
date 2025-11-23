@@ -1,2 +1,2 @@
-                                                                Testas
-Wpf (.Net frame work) programa.
+                                                                Test
+Wpf (.Net frame work) app.
